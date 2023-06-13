@@ -29,7 +29,7 @@ async function OpenAIStream(payload: OpenAIStreamPayload) {
 		method: 'POST',
 		body: JSON.stringify(payload)
 	});
-
+	console.log(res);
 	const stream = new ReadableStream({
 		async start(controller) {
 			// eslint-disable-next-line @typescript-eslint/no-explicit-any
