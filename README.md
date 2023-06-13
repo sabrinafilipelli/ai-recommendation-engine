@@ -1,1 +1,1 @@
-This project uses the OpenAI GPT-3 text-davinci-003 and Vercel Edge functions with streaming. It generates tv show recommendations based on the form and user input, sends it to the GPT-3 API then streams the response back to the app.
+This project uses the OpenAI GPT-3 text-davinci-003 and Vercel Edge functions with streaming. It generates tv show recommendations based on the form and user input, sends it to the GPT-3 API then streams the response back to the app. Demo can be found at: https://vercel.com/sabrinafilipelli/ai-recommendation-engine
